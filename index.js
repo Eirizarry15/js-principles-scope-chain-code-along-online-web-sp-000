@@ -23,4 +23,3 @@ function attemptTwoFavoriteCustomers(){
   const favoriteCustomer = "bob";
   const favoriteCustomer = "joe";
 };
-©
